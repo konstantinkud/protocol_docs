@@ -4,4 +4,5 @@
 
 ## 📄 Документы
 
-- [Введение](docs/introduction.md) — первый документ протокола.
+- [Протокол](docs/Protocol.md
+- [Хартия PoCP](docs/Pocp_charter.md
